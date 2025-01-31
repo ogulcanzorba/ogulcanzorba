@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ogulcanzorba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ogulcanzorba" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ol_g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ol_g/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ogulcanzorba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogulcanzorba" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ol_g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ol_g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogulcanzorba&show_icons=true&locale=en&layout=compact" alt="ogulcanzorba" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogulcanzorba&show_icons=true&locale=en" alt="ogulcanzorba" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogulcanzorba&" alt="ogulcanzorba" /></p>
 
