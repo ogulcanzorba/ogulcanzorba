@@ -14,7 +14,7 @@
 - 🎓 4th-year **Computer Science Engineering** student at Acıbadem University (Graduating June 2026).
 - 🔭 Currently working as a Junior Developer focusing on **AI-based Social Media Analysis** (Dedecta) and **AI Content Generation** (PostAIPilot).
 - 🌱 Mastering **Data Engineering, Machine Learning architectures, and Advanced Python**.
-- ⚡ **Fun fact:** I believe automation is the ultimate form of laziness, and that's exactly why I write code.
+- ⚡ **Fun fact:** I believe automation is the ultimate form of laziness, and that's exactly why I work hard.
 
 ---
 
